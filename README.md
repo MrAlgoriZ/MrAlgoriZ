@@ -7,6 +7,7 @@
 ## About me
 
 I'm a self-employed developer from Russia
+
 I'm interested in data-science and backend development. And, accordingly, self-development *:)*
 
 <details align="left">
