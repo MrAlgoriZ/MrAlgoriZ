@@ -14,11 +14,11 @@ I'm interested in data-science and backend development. And, accordingly, self-d
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,rust,c,postgres,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,rust,c,bash,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,pytorch,sklearn&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudiocode,idea,neovim&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,neovim&perline=7" />
     <br>
   </p>
 </details>
